@@ -1,0 +1,17 @@
+@font-face {
+  font-family: googleFont;
+  src: url('./Google-Sans-Fonts/GoogleSans-Regular.ttf');
+}
+
+body,
+div {
+  font-family: googleFont;
+}
+
+code {
+  font-family: googleFont;
+}
+
+i {
+  cursor: pointer;
+}
